@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1762066064,,"wq!"
+|2,0,1762070581,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,38 @@
 # Registers:
 
 # File marks:
-'0  1  32  ~/myfile
-|4,48,1,32,1762066064,"~/myfile"
-'1  1  32  ~/myfile
-|4,49,1,32,1762065914,"~/myfile"
-'2  1  5  /etc/hostname
-|4,50,1,5,1762065161,"/etc/hostname"
-'3  65  25  /etc/ssh/sshd_config
-|4,51,65,25,1762064486,"/etc/ssh/sshd_config"
+'0  3  5  ~/myfile
+|4,48,3,5,1762070581,"~/myfile"
+'1  1  32  ~/myfile1/myfile
+|4,49,1,32,1762066323,"~/myfile1/myfile"
+'2  1  32  ~/myfile
+|4,50,1,32,1762066064,"~/myfile"
+'3  1  32  ~/myfile
+|4,51,1,32,1762066064,"~/myfile"
+'4  1  32  ~/myfile
+|4,52,1,32,1762065914,"~/myfile"
+'5  1  32  ~/myfile
+|4,53,1,32,1762065914,"~/myfile"
+'6  1  5  /etc/hostname
+|4,54,1,5,1762065161,"/etc/hostname"
+'7  65  25  /etc/ssh/sshd_config
+|4,55,65,25,1762064486,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  3  5  ~/myfile
+|4,39,3,5,1762070581,"~/myfile"
+-'  1  32  ~/myfile
+|4,39,1,32,1762070554,"~/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
 -'  1  32  ~/myfile
 |4,39,1,32,1762066064,"~/myfile"
+-'  1  32  ~/myfile
+|4,39,1,32,1762066064,"~/myfile"
+-'  1  32  ~/myfile
+|4,39,1,32,1762065914,"~/myfile"
 -'  1  32  ~/myfile
 |4,39,1,32,1762065914,"~/myfile"
 -'  1  5  /etc/hostname
@@ -47,6 +67,30 @@
 |4,39,1,5,1762065161,"/etc/hostname"
 -'  1  5  /etc/hostname
 |4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1762065161,"/etc/hostname"
 -'  65  25  /etc/ssh/sshd_config
 |4,39,65,25,1762064486,"/etc/ssh/sshd_config"
 -'  65  25  /etc/ssh/sshd_config
@@ -63,6 +107,102 @@
 |4,39,65,25,1762064486,"/etc/ssh/sshd_config"
 -'  65  25  /etc/ssh/sshd_config
 |4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  65  25  /etc/ssh/sshd_config
+|4,39,65,25,1762064486,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1762064464,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1762064464,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
@@ -83,7 +223,15 @@
 # History of marks within files (newest to oldest):
 
 > ~/myfile
-	*	1762066062	0
+	*	1762070579	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	1	33
+	+	3	5
+
+> ~/myfile1/myfile
+	*	1762066321	0
 	"	1	32
 	^	1	33
 	.	1	32
