@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1762072195,,"wq!"
+|2,0,1762232078,,"wq!"
 :q!
-|2,0,1762072171,,"q!"
+|2,0,1762231608,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,36 +27,70 @@
 # Registers:
 
 # File marks:
-'0  2  3  ~/.gitignore
-|4,48,2,3,1762072195,"~/.gitignore"
+'0  1  10  ~/fileA
+|4,48,1,10,1762232078,"~/fileA"
 '1  7  33  ~/myfile
-|4,49,7,33,1762072171,"~/myfile"
-'2  1  6  ~/.gitignore
-|4,50,1,6,1762071948,"~/.gitignore"
-'3  1  6  ~/.gitignore
-|4,51,1,6,1762071948,"~/.gitignore"
-'4  7  33  ~/myfile
-|4,52,7,33,1762071672,"~/myfile"
-'5  3  5  ~/myfile
-|4,53,3,5,1762070581,"~/myfile"
-'6  3  5  ~/myfile
-|4,54,3,5,1762070581,"~/myfile"
-'7  3  5  ~/myfile
-|4,55,3,5,1762070581,"~/myfile"
+|4,49,7,33,1762231608,"~/myfile"
+'2  2  3  ~/.gitignore
+|4,50,2,3,1762072195,"~/.gitignore"
+'3  7  33  ~/myfile
+|4,51,7,33,1762072171,"~/myfile"
+'4  1  6  ~/.gitignore
+|4,52,1,6,1762071948,"~/.gitignore"
+'5  1  6  ~/.gitignore
+|4,53,1,6,1762071948,"~/.gitignore"
+'6  7  33  ~/myfile
+|4,54,7,33,1762071672,"~/myfile"
+'7  7  33  ~/myfile
+|4,55,7,33,1762071672,"~/myfile"
 '8  3  5  ~/myfile
 |4,56,3,5,1762070581,"~/myfile"
-'9  1  32  ~/myfile1/myfile
-|4,57,1,32,1762066323,"~/myfile1/myfile"
+'9  3  5  ~/myfile
+|4,57,3,5,1762070581,"~/myfile"
 
 # Jumplist (newest first):
+-'  1  10  ~/fileA
+|4,39,1,10,1762232078,"~/fileA"
+-'  7  33  ~/myfile
+|4,39,7,33,1762231608,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762231608,"~/myfile"
 -'  2  3  ~/.gitignore
 |4,39,2,3,1762072195,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1762072195,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1762072195,"~/.gitignore"
+-'  2  3  ~/.gitignore
+|4,39,2,3,1762072195,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762072182,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762072182,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762072182,"~/.gitignore"
 -'  1  6  ~/.gitignore
 |4,39,1,6,1762072182,"~/.gitignore"
 -'  7  33  ~/myfile
 |4,39,7,33,1762072171,"~/myfile"
 -'  7  33  ~/myfile
 |4,39,7,33,1762072171,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762072171,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762072171,"~/myfile"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762071948,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762071948,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762071948,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762071948,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762071948,"~/.gitignore"
+-'  1  6  ~/.gitignore
+|4,39,1,6,1762071948,"~/.gitignore"
 -'  1  6  ~/.gitignore
 |4,39,1,6,1762071948,"~/.gitignore"
 -'  1  6  ~/.gitignore
@@ -69,6 +103,14 @@
 |4,39,7,33,1762071672,"~/myfile"
 -'  7  33  ~/myfile
 |4,39,7,33,1762071672,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762071672,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762071672,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762071672,"~/myfile"
+-'  7  33  ~/myfile
+|4,39,7,33,1762071672,"~/myfile"
 -'  3  5  ~/myfile
 |4,39,3,5,1762071647,"~/myfile"
 -'  3  5  ~/myfile
@@ -81,6 +123,30 @@
 |4,39,3,5,1762071647,"~/myfile"
 -'  3  5  ~/myfile
 |4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762071647,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762070581,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762070581,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762070581,"~/myfile"
+-'  3  5  ~/myfile
+|4,39,3,5,1762070581,"~/myfile"
 -'  3  5  ~/myfile
 |4,39,3,5,1762070581,"~/myfile"
 -'  3  5  ~/myfile
@@ -109,148 +175,98 @@
 |4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
 |4,39,1,32,1762070554,"~/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
--'  1  32  ~/myfile1/myfile
-|4,39,1,32,1762066323,"~/myfile1/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762066064,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
+|4,39,1,32,1762070554,"~/myfile"
 -'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
--'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
--'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
--'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
--'  1  32  ~/myfile
-|4,39,1,32,1762065914,"~/myfile"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
--'  1  5  /etc/hostname
-|4,39,1,5,1762065161,"/etc/hostname"
+|4,39,1,32,1762070554,"~/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
+-'  1  32  ~/myfile1/myfile
+|4,39,1,32,1762066323,"~/myfile1/myfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/fileA
+	*	1762232076	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/myfile
+	*	1762231606	0
+	"	7	33
+	^	7	34
+	.	7	33
+	+	1	33
+	+	3	5
+	+	7	33
 
 > ~/.gitignore
 	*	1762072194	0
@@ -259,15 +275,6 @@
 	.	2	3
 	+	1	7
 	+	2	3
-
-> ~/myfile
-	*	1762072169	0
-	"	7	33
-	^	7	34
-	.	7	33
-	+	1	33
-	+	3	5
-	+	7	33
 
 > ~/myfile1/myfile
 	*	1762066321	0
